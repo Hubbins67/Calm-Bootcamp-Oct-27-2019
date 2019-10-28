@@ -39,7 +39,7 @@
 Getting Started
 ---------------
 
-Welcome to the ePLDT Calm Bootcamp!
+Welcome to the Harris Calm Bootcamp!
 
 
 
