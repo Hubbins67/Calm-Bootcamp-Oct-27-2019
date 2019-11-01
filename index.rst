@@ -39,7 +39,7 @@
 Getting Started
 ---------------
 
-Welcome to the Harris Calm Bootcamp!
+Welcome to the Calm TTT!
 
 
 
